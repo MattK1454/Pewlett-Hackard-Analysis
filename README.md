@@ -17,7 +17,7 @@ After the analysis was completed, four points are of note:
 
 Taking into account all of the employees who qualify for retirement at the point of this analysis, the impending wave of retirements will leave 90,398 positions that will need to be filled at Pewlett Hackard. The numbers also reveal that there are no where near enough employees available to mentor those who will come after them. The data shows that the ratio of mentors-to-positions is 1,549-to-90,398. There will need to be an alternative structure implimented for the education of the next generation of employees.
 
-* Since it will be difficult to address the lack of mentors available, it maybe benifical to approach manager is the **'manager_key_points'** list to ask if they can help develop some material to guide the employees who will fill roles open by retirement within their departments.
+* Since it will be difficult to address the lack of mentors available, it maybe benifical to approach manager in the **'manager_key_points'** table to ask if they can help develop some material to guide the employees who will fill roles open by retirement within their departments.
 
 
 
