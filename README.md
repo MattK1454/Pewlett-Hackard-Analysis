@@ -6,7 +6,7 @@ The purpose of the Pewlett Hackard Retirement Analysis was to convert existing c
 
 ## Results
 
-After the analysis was completed, four points should be discussed:
+After the analysis was completed, four points are of note:
 
 - There are 29,414 senior engineers who qualify for retirement
 - There are 28,254 senior staff employees who qualify for retirement
