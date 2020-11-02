@@ -19,7 +19,7 @@ Taking into account all of the employees who qualify for retirement at the point
 
 * Since it will be difficult to address the lack of mentors available, it maybe benifical to approach manager in the [**'manager_key_points'**](https://github.com/MattK1454/Pewlett-Hackard-Analysis/blob/main/Data/manager_key_points.csv) table to ask if they can help develop some material to guide the employees who will fill roles open by retirement within their departments.
 
-
+* Along those lines, it may also be of benefit to develop a panel of mentorship eligible employees by title. Using the table [**title_panel**](https://github.com/MattK1454/Pewlett-Hackard-Analysis/blob/main/Data/title_panels.csv), it will be possible to see how many individuals are eligible to mentor and then cross reference that with the list of retirement eligible employees. If there are not enough people to properly mentor, it may stil be possible to borrow some of their wisdom by placing it in something like a guide book for the next generation.
 
 ## References
 
